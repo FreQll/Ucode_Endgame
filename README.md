@@ -8,6 +8,9 @@ The game was made in five days by our team:
   vlhladchen - Engine programmer, 
   dshchepin - Team lead | Programmer.
   
+You can watch trailer here:
+https://www.youtube.com/watch?v=mCRsdzFmHrY
+  
 To install game you need to:
 ```
 
