@@ -1,12 +1,19 @@
 # Ucode_Endgame
 
 The game was made in five days by our team: 
-  akulak - Graphics designer | Tester, 
+
+  akulak - Graphics designer | Tester,
+ 
   amorozenko - Programmer | Graphics Designer, 
+
   oshcherbat - Programmer, 
+
   mcherednyc - Engine Programmer | Game Designer, 
+
   vlhladchen - Engine programmer, 
+
   dshchepin - Team lead | Programmer.
+
   
 You can watch trailer here:
 https://www.youtube.com/watch?v=mCRsdzFmHrY
